@@ -9,10 +9,4 @@ Owner later, PSPO I.
 **There is little to see here, and that is on purpose.** Seventeen years of work
 belong to the employers I did it for, and my own projects are private.
 
-What is public is the site, and I built that too:
-
-### [harald.innetzberger.de](https://harald.innetzberger.de)
-
-Career, projects and the written references, in German and English.
-
 Happy to walk through code in a conversation.
